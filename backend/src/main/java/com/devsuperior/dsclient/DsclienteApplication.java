@@ -1,4 +1,4 @@
-package com.devsuperior.dscliente;
+package com.devsuperior.dsclient;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
